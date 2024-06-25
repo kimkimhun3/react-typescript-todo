@@ -1,7 +1,5 @@
 # React Beginner Course 2024 (Vite, Tailwind CSS, TypeScript)
 
-This is the project code for my YouTube tutorial: https://www.youtube.com/watch?v=siTUv1L9ymM
-
 Learn the basics of **React.js** with Tailwind CSS and TypeScript. You will learn:
 - How to set up a new React project using Vite
 - How to install & use Tailwind CSS in React
