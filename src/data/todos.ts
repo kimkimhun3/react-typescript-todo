@@ -17,3 +17,5 @@ export const dummyData: Todo[] = [
     completed: false,
   },
 ];
+
+//Example datas
